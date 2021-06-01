@@ -20,13 +20,7 @@ from the animals.
   - SensorType: Multiple sensor observations were obtained, the type
     identifies which ones are usefull
   - SensorValue: Sensor value
-  - ObservationDate: Date at which the locomotion or bcs scores were
-    observed
-  - ScoreDaysInMilk : Days in milk at which the locomotion or bcs scores
-    were observed
-  - ScoreType : Locomotion or BCS score
-  - ScoreValue : Score value
-  - ObservationDays : Days from sensor to score observation moment
+
 
 # Models
 
