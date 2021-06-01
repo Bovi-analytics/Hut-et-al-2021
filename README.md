@@ -23,26 +23,24 @@ The data contains data from 8 farms using 2 NEDAP sensors (leg and neck).
 
 ## Lying and walking behavior 
 
-  - [Link to model Standups](StandUps/StandUps.md)
-  - [Link to model Leg Activity](LegActivity/LegActivity.md)
-  - [Link to model Lying Time](LyingTime/LyingTime.md)
-  - [Link to model Lying Bouts](LyingBouts/LyingBouts.md)
-  - [Link to model Lying Bout
-    Length](LyingBoutLength/LyingBoutLength.md)
+  - [Link to model Standing time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Lactation%20models/StandingTime_MonthsInMilk.ipynb)
+  - [Link to model Walking time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Lactation%20models/WalkingTime_MonthsInMilk.ipynb)
+  - [Link to model Leg Activity](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Lactation%20models/LegActivity_MonthsInMilk.ipynb)
+  - [Link to model Lying Time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Lactation%20models/LyingTime_MonthsInMilk.ipynb)
+
 
 ## Eating behavior
 
-  - [Link to model Eating Time](EatingTime/EatingTime.md)
-  - [Link to model Eating Bouts](EatingBouts/EatingBouts.md)
-  - [Link to model Eating Bout
-    Length](EatingBoutLength/EatingBoutLength.md)
+  - [Link to model Eating Time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Lactation%20models/EatingTime_MonthsInMilk.ipynb)
 
 ## Rumination behavior
 
-  - [Link to model Rumination Time](RuminationTime/RuminationTime.md)
-  - [Link to model Rumination Bouts](RuminationBouts/RuminationBouts.md)
-  - [Link to model Rumination Bout
-    Length](RuminationBoutLength/RuminationBoutLength.md)
+  - [Link to model Rumination Time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Lactation%20models/RuminatingTime_MonthsInMilk.ipynb)
+
+
+## overall graphs
+![image](https://user-images.githubusercontent.com/49685958/120319276-22128000-c2e1-11eb-9233-70f34d0e50b3.png)
+![image](https://user-images.githubusercontent.com/49685958/120319365-38204080-c2e1-11eb-9e15-fecfb75c4e58.png)
 
 # Remarks and meeting notes
 
