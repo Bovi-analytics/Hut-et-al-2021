@@ -19,7 +19,7 @@ The data contains data from 8 farms using 2 NEDAP sensors (leg and neck).
   - SensorDaysInMilk : Days in milk at sensor observation
   - SensorValue: Eating time, rumination time, lying time, standing time, walking time, leg activity: number of steps (min/2h, ,min/day, no. of steps/2h, no. of steps/day)
 
-# Models
+# Models MonthsInMilk
 
 ## Lying and walking behavior 
 
@@ -37,6 +37,22 @@ The data contains data from 8 farms using 2 NEDAP sensors (leg and neck).
 
   - [Link to model Rumination Time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Lactation%20models/RuminatingTime_MonthsInMilk.ipynb)
 
+# Models 24h patterns
+## Lying and walking behavior 
+
+  - [Link to model Standing time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Daily%20models/StandingTime_24h_pattern.ipynb)
+  - [Link to model Walking time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Daily%20models/WalkingTime_24h_pattern.ipynb)
+  - [Link to model Leg Activity](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Daily%20models/LegActivity_24h_pattern.ipynb)
+  - [Link to model Lying Time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Daily%20models/LyingTime_24h_pattern.ipynb)
+
+
+## Eating behavior
+
+  - [Link to model Eating Time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Daily%20models/EatingTime_24h_pattern.ipynb)
+
+## Rumination behavior
+
+  - [Link to model Rumination Time](https://github.com/Bovi-analytics/hut-et-al-2021/blob/master/Daily%20models/RuminatingTime_24h_pattern.ipynb)
 
 ## overall graphs
 ![image](https://user-images.githubusercontent.com/49685958/120319276-22128000-c2e1-11eb-9233-70f34d0e50b3.png)
