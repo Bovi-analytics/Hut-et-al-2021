@@ -1,6 +1,8 @@
 Notebook for Hut et al. 2021
 ================
 
+[![DOI](https://zenodo.org/badge/365004681.svg)](https://zenodo.org/badge/latestdoi/365004681)
+
 # Getting the data from the bovi-analytics blob storage
 
 You will need to get access key via Miel Hostens (<m.m.hostens@uu.nl>)
