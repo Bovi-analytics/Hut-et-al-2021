@@ -1,6 +1,8 @@
 Notebook for Hut et al. 2021
 ================
 
+Original article [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264392)
+
 [![DOI](https://zenodo.org/badge/365004681.svg)](https://zenodo.org/badge/latestdoi/365004681)
 
 # Getting the data from the bovi-analytics blob storage
