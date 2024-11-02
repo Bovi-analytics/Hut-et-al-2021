@@ -1,4 +1,4 @@
-Notebook for Hut et al. 2021
+Notebook for Hut et al. 2022
 ================
 
 Original article [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264392)
